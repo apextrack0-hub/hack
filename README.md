@@ -2,16 +2,17 @@
 
 > One-line description of what your project does and who it's for.
 
-Built for the **AI Hackathon 2026** (Powered by Jaseci Labs), University of Moratuwa, 17 October 2026.
-Track: **Hack the Future with Jac**
+- Built for the **AI Hackathon 2026** (Powered by Jaseci Labs), University of Moratuwa, 17 October 2026
+- Track: **Hack the Future with Jac**
+- Team: **[TEAM NAME]**
+- Demo video: [add link here]
+- Live demo (Jac Hammer): [add link here]
 
-**Team:** Team Name
+## Team
+
 - Member 1 ([@github-username](https://github.com/github-username))
 - Member 2 ([@github-username](https://github.com/github-username))
 - Member 3 ([@github-username](https://github.com/github-username))
-
-**Demo video:** <link>
-**Live demo (Jac Hammer):** <link>
 
 ---
 
@@ -57,8 +58,8 @@ User -> Frontend -> Backend (Jac) -> Agents -> Data / external APIs
 ### Installation
 
 ```bash
-git clone https://github.com/<owner>/<repo>.git
-cd <repo>
+git clone https://github.com/apextrack0-hub/hack.git
+cd hack
 # install dependencies (fill in from the Jac docs)
 ```
 
