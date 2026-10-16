@@ -1,4 +1,3 @@
-# hack
 # Project Name
 
 > One-line description of what your project does and who it's for.
